@@ -1,6 +1,6 @@
 # Udacity-Restaurant-Reviews-App
 ---
-# Overview of the restaurant project
+## Overview of the restaurant project
 ---
 The purpose of the project is to transform a static webpage to a mobile ready application making sure, along the way, that :
 * it is responsive to various screen sizes
@@ -15,10 +15,10 @@ The purpose of the project is to transform a static webpage to a mobile ready ap
     $ git clone https://github.com/najeh-halawani/Udacity-Restaurant-Reviews-App.git
     ```
 * To run the project locally, I opted the use of python http server. If python is already installed, check for what version it has by typing in a terminal: `python -V`.
-* 1. For version 2.x launch the server using the following command: `python -m SimpleHTTPServer 8889`. Make sure that this port is not already in use.
-* 2. For version 3.x launch the server using the following command: `python3 -m http.server 8889`.
-* 3. In case Python is not installed, install it from the following link: `https://www.python.org/`
-* 4. Once the server is running, navigate to the local site: `http://localhost:8889` using incognito for better experience  as a suggestion
+*  For version 2.x launch the server using the following command: `python -m SimpleHTTPServer 8889`. Make sure that this port is not already in use.
+*  For version 3.x launch the server using the following command: `python3 -m http.server 8889`.
+*  In case Python is not installed, install it from the following link: `https://www.python.org/`
+*  Once the server is running, navigate to the local site: `http://localhost:8889` using incognito for better experience  as a suggestion
 
 
 ## Leaflet.js and Mapbox:
