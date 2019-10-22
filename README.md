@@ -1,11 +1,11 @@
 # Udacity-Restaurant-Reviews-App
 ---
 ## Overview of the restaurant project
----
+
 The purpose of the project is to transform a static webpage to a mobile ready application making sure, along the way, that :
-* it is responsive to various screen sizes
-* it has accessibility feature for screen reader
-* its contents has been cached for offline use (using service worker script)
+* It is responsive to various screen sizes
+* It has accessibility feature for screen reader
+* Its contents has been cached for offline use (using service worker script)
 
 ### Running The Application On Local Computer
 
